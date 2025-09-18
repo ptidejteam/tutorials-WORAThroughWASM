@@ -1,0 +1,10 @@
+args = [ "9" ]
+
+[[files]]
+kind = "stdin"
+
+[[files]]
+kind = "stdout"
+
+[[files]]
+kind = "stderr"

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.41">
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\io\BufferedInputStreamTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\io\BufferedReaderTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\io\BufferedWriterTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\io\ByteArrayInputStreamTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\io\CharArrayReaderTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\io\CharArrayWriterTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\io\FileInputStreamTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\io\FileOutputStreamTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\io\FileTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\io\InputStreamReaderTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\io\OutputStreamWriterTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\io\PipedInputStreamTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\io\PipedOutputStreamTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\io\PrintWriterTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\io\PushbackInputStreamTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\io\StreamTokenizerTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\io\StringWriterTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\lang\BooleanTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\lang\ByteTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\lang\CharacterTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\lang\ClassLoaderTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\lang\ClassTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\lang\DoubleTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\lang\EnumTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\lang\FloatTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\lang\IntegerTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\lang\invoke\SerializedLambdaTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\lang\LongTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\lang\MathTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\lang\ObjectTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\lang\reflect\ArrayTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\lang\reflect\ConstructorTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\lang\reflect\FieldTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\lang\reflect\MethodTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\lang\ShortTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\lang\StringBuilderTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\lang\StringTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\lang\SystemTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\lang\TestObject.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\lang\TestObjectAsync.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\lang\TestResourcesSupplier.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\lang\ThreadTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\lang\ThrowableTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\math\BigDecimalArithmeticTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\math\BigDecimalCompareTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\math\BigDecimalConstructorsTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\math\BigDecimalConvertTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\math\BigDecimalScaleOperationsTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\math\BigIntegerAddTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\math\BigIntegerAndTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\math\BigIntegerCompareTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\math\BigIntegerConstructorsTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\math\BigIntegerConvertTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\math\BigIntegerDivideTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\math\BigIntegerHashCodeTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\math\BigIntegerModPowTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\math\BigIntegerMultiplyTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\math\BigIntegerNotTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\math\BigIntegerOperateBitsTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\math\BigIntegerOrTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\math\BigIntegerSubtractTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\math\BigIntegerToStringTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\math\BigIntegerXorTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\net\URLDecoderTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\net\URLEncoderTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\net\URLTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\nio\ByteBufferTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\nio\ByteBufferWrapperTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\nio\CharBufferTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\nio\charset\AsciiTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\nio\charset\CharsetTestCommon.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\nio\charset\Iso8859Test.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\nio\charset\UTF16Test.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\nio\charset\UTF8Test.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\nio\DoubleBufferTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\nio\FloatBufferTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\nio\IntBufferTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\nio\LongBufferTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\nio\ShortBufferTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\text\DateFormatTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\text\DecimalFormatParseTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\text\DecimalFormatTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\text\MessageFormatTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\text\NumberFormatTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\text\SimpleDateFormatTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\AbstractDateTimeTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\AbstractTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\chrono\TestChronoLocalDate.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\chrono\TestChronoLocalDateTime.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\chrono\TestChronology.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\chrono\TestChronoZonedDateTime.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\chrono\TestHijrahChronology.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\chrono\TestIsoChronology.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\chrono\TestJapaneseChronology.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\chrono\TestMinguoChronology.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\chrono\TestThaiBuddhistChronology.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\format\MockIOExceptionAppendable.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\format\TestDateTimeFormatter.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\format\TestDateTimeFormatterBuilder.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\format\TestDateTimeFormatters.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\format\TestDateTimeParsing.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\format\TestDateTimeTextPrinting.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\format\TestDecimalStyle.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\MockSimplePeriod.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\temporal\MockFieldNoValue.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\temporal\MockFieldValue.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\temporal\TestChronoField.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\temporal\TestChronoUnit.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\temporal\TestIsoFields.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\temporal\TestJulianFields.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\temporal\TestMonthDay.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\temporal\TestTemporalAdjusters.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\temporal\TestValueRange.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\temporal\TestYear.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\temporal\TestYearMonth.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\TestClock.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\TestClockFixed.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\TestClockOffset.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\TestClockSystem.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\TestClockTick.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\TestDateTimesImplementation.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\TestDayOfWeek.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\TestDuration.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\TestInstant.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\TestLocalDate.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\TestLocalDateTime.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\TestLocalTime.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\TestMonth.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\TestOffsetDateTime.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\TestOffsetDateTimeInstants.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\TestOffsetTime.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\TestPeriod.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\TestZonedDateTime.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\TestZoneId.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\TestZoneOffset.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\zone\TestFixedZoneRules.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\zone\TestStandardZoneRules.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\zone\TestZoneOffsetTransition.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\zone\TestZoneOffsetTransitionRule.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\time\zone\TestZoneRulesProvider.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\util\ArrayDequeTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\util\ArrayListTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\util\ArraysTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\util\BitSetTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\util\CalendarTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\util\CollectionsTest.java">
+</file>
+<file name="C:\TeaVM-WASI\tests\src\test\java\org\teavm\classlib\java\util\concurrent\A

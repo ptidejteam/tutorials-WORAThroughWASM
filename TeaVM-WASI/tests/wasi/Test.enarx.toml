@@ -1,0 +1,10 @@
+args = [ "catch", "Hello Enarx!" ]
+
+[[files]]
+kind = "stdin"
+
+[[files]]
+kind = "stdout"
+
+[[files]]
+kind = "stderr"
